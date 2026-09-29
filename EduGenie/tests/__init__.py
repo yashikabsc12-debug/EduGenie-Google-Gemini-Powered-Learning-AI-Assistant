@@ -1,4 +1,0 @@
-"""
-EduGenie tests.
-"""
-

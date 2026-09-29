@@ -1,3 +1,0 @@
-"""
-EduGenie service layer.
-"""
